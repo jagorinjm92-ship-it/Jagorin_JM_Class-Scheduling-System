@@ -10,7 +10,7 @@ A web-based CRUD application for creating and managing class schedules, with aut
 ## Technologies
 
 - PHP (MySQLi, prepared statements)
-- MySQL / MariaDB
+- MySQL
 - HTML5 and CSS3
 - Bootstrap 5
 
